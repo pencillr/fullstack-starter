@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@svgr/webpack": "^5.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-cli": "6.24.1",
     "babel-core": "6.26.3",
     "babel-loader": "7.1.4",
